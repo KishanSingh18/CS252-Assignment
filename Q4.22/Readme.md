@@ -21,13 +21,6 @@ After the successful execution of this code we get the required average , minimu
 
 ![alttext](https://github.com/varun-tiwari1/CS252_Assignment/blob/master/Question-2/Running_a_Program.png)
 
-## Command for getting Time Information
-
-Code - `time ./a.out`
-
-## Screenshot
-
-![alttext](https://github.com/varun-tiwari1/CS252_Assignment/blob/master/Question-2/Time_Information.png)
 
 ## Implementation
 
